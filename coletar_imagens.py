@@ -2,7 +2,7 @@ import cv2
 import os
 import time
 
-# Define as letras que você quer capturar
+# Define quantas letras que você quer capturar
 letras = 1
 
 # Define o diretório onde as imagens serão salvas
