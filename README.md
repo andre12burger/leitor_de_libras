@@ -1,6 +1,3 @@
----
-
-```markdown
 # Leitor de Libras com Reconhecimento de Gestos em Tempo Real
 
 Este projeto tem como objetivo detectar e traduzir gestos da Língua Brasileira de Sinais (LIBRAS) para texto, reconhecendo letras isoladas em tempo real a partir de capturas de vídeo via webcam. O sistema utiliza landmarks das mãos para identificar sinais e exibir a letra correspondente diretamente na tela.
